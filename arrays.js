@@ -13,3 +13,5 @@ console.log(newAges);
 // Slice method: this method take two numbers and removes indexes based on the numbers listed. In this case it will return indexes 1-3, which will be false, true, true. 
 var newBool = bool.slice(1,4);
 console.log(newBool);
+
+// Index positions start at 0 within an array and move up from there. Each index is an element in the array. In my array of pets the index position 0 is equal to Chibi. 
